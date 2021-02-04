@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982603037691",
+    "project_id": "injaz-task",
+    "storage_bucket": "injaz-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982603037691:android:162ce20c28f4943241295e",
+        "android_client_info": {
+          "package_name": "www.koksh.injaz.injaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982603037691-ob3j5888gdr4s1nesm63dsmusoanfa20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCBzudFQweYcwE_JW-nOXTWem8o1_COQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982603037691-ob3j5888gdr4s1nesm63dsmusoanfa20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
