@@ -21,7 +21,6 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-  carousel_pro: ^1.0.0
   firebase_database: ^4.4.0
   firebase_core: ^0.5.3
   firebase_auth: ^0.18.4+1
