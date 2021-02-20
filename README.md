@@ -1,4 +1,4 @@
-# injaz
+# Company
 
 A new Flutter application.
 
